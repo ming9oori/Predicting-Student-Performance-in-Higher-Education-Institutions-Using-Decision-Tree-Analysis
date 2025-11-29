@@ -1,0 +1,11 @@
+Student,True_Class,Predicted_Class,Correct,Path_Length,Decision_Path
+1,Passed,Passed,True,2,Q12 = 2.00 > 0.50
+2,Passed,Passed,True,2,Q12 = 1.00 > 0.50
+3,Passed,Passed,True,2,Q12 = 1.00 > 0.50
+4,Failed,Failed,True,2,Q12 = 0.00 <= 0.50
+5,Failed,Failed,True,2,Q12 = 0.00 <= 0.50
+6,Passed,Passed,True,2,Q12 = 1.00 > 0.50
+7,Passed,Passed,True,2,Q12 = 3.00 > 0.50
+8,Passed,Passed,True,2,Q12 = 1.00 > 0.50
+9,Passed,Passed,True,2,Q12 = 1.00 > 0.50
+10,Passed,Passed,True,2,Q12 = 1.00 > 0.50

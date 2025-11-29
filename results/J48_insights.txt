@@ -1,0 +1,36 @@
+# Decision Tree Insights and Recommendations
+================================================================================
+
+## 1. Most Important Decision Factors
+
+The following factors have the highest impact on student success:
+
+1. Q12: 1.0000
+
+## 2. Key Decision Points
+
+Critical thresholds identified by the decision tree:
+
+Most frequently used features in decision making:
+- Q12: Used 1 times
+
+## 3. Recommendations for Students
+
+Based on the decision tree analysis:
+
+### For At-Risk Students:
+- Focus on improving top 5 critical factors
+- Seek help early if struggling with key areas
+- Regular monitoring of progress
+
+### For All Students:
+- Maintain consistent study habits
+- Develop strong time management skills
+- Stay motivated and engaged
+
+## 4. Recommendations for Educators
+
+- Design interventions targeting high-impact factors
+- Early identification using decision tree predictions
+- Personalized support based on decision paths
+- Monitor key indicators throughout semester

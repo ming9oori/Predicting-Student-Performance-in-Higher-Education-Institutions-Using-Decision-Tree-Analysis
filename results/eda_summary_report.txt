@@ -1,0 +1,25 @@
+# Exploratory Data Analysis - Summary Report
+================================================================================
+
+## 1. Dataset Overview
+- Total Students: 153
+- Total Features: 60
+- Passed Students: 77 (50.3%)
+- Failed Students: 76 (49.7%)
+
+## 2. Key Findings from EDA
+
+### Statistical Significance
+- 2 out of 43 questions show significant differences (p < 0.05)
+- Top 3 most discriminative features:
+  - Q24: Mean diff = 0.433, p = 0.0159
+  - Q52: Mean diff = -0.433, p = 0.0271
+  - Q22: Mean diff = 0.329, p = 0.0776
+
+## 3. Recommendations for Intervention
+
+Based on the analysis, focus on improving:
+1. Student motivation and engagement
+2. Time management skills
+3. Study habits and techniques
+4. Self-confidence and self-esteem
